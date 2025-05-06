@@ -9,7 +9,7 @@
         <title>AMAVI5D: Daftar Situs Toto Macau dan Toto Togel 4D Terbaik #1 </title>
         <meta name="description" content="Amavi5D hadir sebagai destinasi utama bagi para pecinta permainan Toto Macau dan Togel 4D dengan jaminan pengeluaran hasil yang akurat dan transparan."/>
         <meta name="robots" content="index, follow"/>
-        <meta name="og:url" content="https://https://sentrinov.isas.or.id/2020/"/>
+        <meta name="og:url" content="https://sentrinov.isas.or.id/2020/"/>
         <meta name="og:title" content="AMAVI5D: Daftar Situs Toto Macau dan Toto Togel 4D Terbaik #1 "/>
         <meta name="og:type" content="product"/>
         <meta name="og:description" content="Amavi5D hadir sebagai destinasi utama bagi para pecinta permainan Toto Macau dan Togel 4D dengan jaminan pengeluaran hasil yang akurat dan transparan."/>
@@ -19,7 +19,7 @@
         <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"/>
         <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json"/>
         <link rel="shortcut icon" href="https://sentrinov.isas.or.id/2023/wp-content/uploads/2023/03/sentrinov-300x281.png"/>
-        <link rel="canonical" href="https://https://sentrinov.isas.or.id/2020/"/>
+        <link rel="canonical" href="https://sentrinov.isas.or.id/2020/"/>
         <link rel="amphtml" href="https://pcmbatamkota.org/sentrinov.html"/>
 
         <!-- start preload -->
@@ -357,7 +357,7 @@
                 "name": "AMAVI5D: Daftar Situs Toto Macau dan Toto Togel 4D Terbaik #1 ",
                 "image": "//id-test-11.slatic.net/p/c08a6637647b6984097e3fcf63c97c3c.jpg",
                 "category": "Televisi & Video",
-                "brand": { "@type": "Brand", "name": "Samsung", "url": "https://https://sentrinov.isas.or.id/2020/" },
+                "brand": { "@type": "Brand", "name": "Samsung", "url": "https://sentrinov.isas.or.id/2020/" },
                 "sku": "3642482616_ID-6108584955",
                 "mpn": 3642482616,
                 "description": "Amavi5D hadir sebagai destinasi utama bagi para pecinta permainan Toto Macau dan Togel 4D dengan jaminan pengeluaran hasil yang akurat dan transparan.",
@@ -382,7 +382,7 @@
                         "@type": "ListItem",
                         "position": 1,
                         "item": {
-                            "@id": "https://https://sentrinov.isas.or.id/2020/",
+                            "@id": "https://sentrinov.isas.or.id/2020/",
                             "name": "Situs Gacor Maxwin"
                         }
                     },
@@ -390,7 +390,7 @@
                         "@type": "ListItem",
                         "position": 2,
                         "item": {
-                            "@id": "https://https://sentrinov.isas.or.id/2020/",
+                            "@id": "https://sentrinov.isas.or.id/2020/",
                             "name": "Link Situs Gacor"
                         }
                     },
@@ -398,7 +398,7 @@
                         "@type": "ListItem",
                         "position": 3,
                         "item": {
-                            "@id": "https://https://sentrinov.isas.or.id/2020/",
+                            "@id": "https://sentrinov.isas.or.id/2020/",
                             "name": "Situs Gacor Gampang Menang"
                         }
                     },
@@ -406,7 +406,7 @@
                         "@type": "ListItem",
                         "position": 4,
                         "item": {
-                            "@id": "https://https://sentrinov.isas.or.id/2020/",
+                            "@id": "https://sentrinov.isas.or.id/2020/",
                             "name": "Situs Gacor Hari Ini"
                         }
                     },
@@ -414,7 +414,7 @@
                         "@type": "ListItem",
                         "position": 5,
                         "item": {
-                            "@id": "https://https://sentrinov.isas.or.id/2020/",
+                            "@id": "https://sentrinov.isas.or.id/2020/",
                             "name": "AMAVI5D: Daftar Situs Toto Macau dan Toto Togel 4D Terbaik #1 "
                         }
                     }
@@ -440,13 +440,13 @@
                             <div class="lzd-links-bar" id="topActionLinks">
                                 <div class="links-list header-content ID id">
                                     <div class="top-links-item" id="topActionInternalFeedback" style="display: none;">
-                                        <a class="highlight" target="_blank" href="https://https://sentrinov.isas.or.id/2020/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d0">INTERNAL FEEDBACK</a>
+                                        <a class="highlight" target="_blank" href="https://sentrinov.isas.or.id/2020/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d0">INTERNAL FEEDBACK</a>
                                     </div>
                                     <div class="top-links-item" id="topActionFeedback">
-                                        <a target="_blank" href="https://https://sentrinov.isas.or.id/2020/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=dfeedback">SITUS GACOR</a>
+                                        <a target="_blank" href="https://sentrinov.isas.or.id/2020/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=dfeedback">SITUS GACOR</a>
                                     </div>
                                     <div class="top-links-item orange" id="topActionDownload" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d1">
-                                        <span><a href="https://https://sentrinov.isas.or.id/2020/">LINK GACOR</a></span>
+                                        <span><a href="https://sentrinov.isas.or.id/2020/">LINK GACOR</a></span>
                                         <div class="lzd-download-popup top-popup-wrap" id="lzdDownloadPopup">
                                             <div class="top-popup-content lzd-download-content">
                                                 <div class="get-the-app-scope">
@@ -499,10 +499,10 @@
                                         </div>
                                     </div>
                                     <div class="top-links-item" id="topActionSell">
-                                        <a class="black" href="https://https://sentrinov.isas.or.id/2020/">LINK SITUS GACOR</a>
+                                        <a class="black" href="https://sentrinov.isas.or.id/2020/">LINK SITUS GACOR</a>
                                     </div>
                                     <div class="top-links-item" id="topActionCustomCare" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d3">
-                                        <span><a href="https://https://sentrinov.isas.or.id/2020/">SITUS RESMI</a></span>
+                                        <span><a href="https://sentrinov.isas.or.id/2020/">SITUS RESMI</a></span>
                                         <div class="lzd-customcare-popup top-popup-wrap">
                                             <div class="top-popup-content l-customcare-content">
                                                 <ul class="care-list">
@@ -549,7 +549,7 @@
                                         </div>
                                     </div>
                                     <div class="top-links-item" id="topActionTrack" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d4">
-                                        <span><a href="https://https://sentrinov.isas.or.id/2020/">SITUS TERPERCAYA</a></span>
+                                        <span><a href="https://sentrinov.isas.or.id/2020/">SITUS TERPERCAYA</a></span>
                                         <div class="lzd-track-popup top-popup-wrap" id="lzdTrackPop">
                                             <div class="top-popup-content lzd-track-content">
                                                 <div id="topActionMyLastOrder"></div>
@@ -608,8 +608,8 @@
                             <div class="lzd-logo-bar">
                                 <div class="logo-bar-content header-content">
                                     <div class="lzd-logo-content">
-                                        <a href="https://https://sentrinov.isas.or.id/2020/" data-spm="dhome">
-                                            <img src="https://https://sentrinov.isas.or.id/2020/2020/wp-content/uploads/6789.jpeg" style="object-fit: contain; width: 100%; height: auto;" data-pagespeed-url-hash="2185983446" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/>
+                                        <a href="https://sentrinov.isas.or.id/2020/" data-spm="dhome">
+                                            <img src="https://sentrinov.isas.or.id/2020/2020/wp-content/uploads/6789.jpeg" style="object-fit: contain; width: 100%; height: auto;" data-pagespeed-url-hash="2185983446" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/>
                                         </a>
                                     </div>
                                     <div class="lzd-nav-search" data-spm="search">
@@ -627,7 +627,7 @@
                                             <div class="lzd-site-nav-menu lzd-site-nav-menu-active" data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index" data-config="{}">
                                                 <div class="lzd-site-menu-nav-container">
                                                     <div class="lzd-site-menu-nav-category">
-                                                        <a href="https://https://sentrinov.isas.or.id/2020/">
+                                                        <a href="https://sentrinov.isas.or.id/2020/">
                                                             <span class="lzd-site-menu-nav-category-text">Kategori</span>
                                                         </a>
                                                         <div class="lzd-site-menu-nav-menu">
@@ -1708,7 +1708,7 @@
                             <div class="lzd-site-nav-menu lzd-site-nav-menu-active" data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index" data-config="{}">
                                 <div class="lzd-site-menu-nav-container">
                                     <div class="lzd-site-menu-nav-category">
-                                        <a href="https://https://sentrinov.isas.or.id/2020/">
+                                        <a href="https://sentrinov.isas.or.id/2020/">
                                             <span class="lzd-site-menu-nav-category-text">Kategori</span>
                                         </a>
                                         <div class="lzd-site-menu-nav-menu">
@@ -2743,28 +2743,28 @@
                                         </div>
                                     </div>
                                     <nav class="lzd-menu-labels" data-spm="menu">
-                                        <a class="lzd-menu-labels-item" href="https://https://sentrinov.isas.or.id/2020/">
+                                        <a class="lzd-menu-labels-item" href="https://sentrinov.isas.or.id/2020/">
                                             <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                                 
                                             </span>
                                             <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-LazMall">&#xe629;</i>-->
                                             <span class="lzd-menu-labels-item-text">Situs Gacor</span>
                                         </a>
-                                        <a class="lzd-menu-labels-item" href="https://https://sentrinov.isas.or.id/2020/">
+                                        <a class="lzd-menu-labels-item" href="https://sentrinov.isas.or.id/2020/">
                                             <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                                 
                                             </span>
                                             <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-MobileTop1">&#xe768;</i>-->
                                             <span class="lzd-menu-labels-item-text">Link Gacor</span>
                                         </a>
-                                        <a class="lzd-menu-labels-item" href="https://https://sentrinov.isas.or.id/2020/">
+                                        <a class="lzd-menu-labels-item" href="https://sentrinov.isas.or.id/2020/">
                                             <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                                 
                                             </span>
                                             <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-Vouchers">&#xe76a;</i>-->
                                             <span class="lzd-menu-labels-item-text">Situs Link Gacor</span>
                                         </a>
-                                        <a class="lzd-menu-labels-item" href="https://https://sentrinov.isas.or.id/2020/">
+                                        <a class="lzd-menu-labels-item" href="https://sentrinov.isas.or.id/2020/">
                                             <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                                 
                                             </span>
@@ -2804,13 +2804,13 @@
                             <ul class="breadcrumb" id="J_breadcrumb">
                                 <li class="breadcrumb_item">
                                     <span class="breadcrumb_item_text">
-                                        <a href="https://https://sentrinov.isas.or.id/2020/" class="breadcrumb_item_anchor"><span>Situs Gacor</span></a>
+                                        <a href="https://sentrinov.isas.or.id/2020/" class="breadcrumb_item_anchor"><span>Situs Gacor</span></a>
                                         <div class="breadcrumb_right_arrow"></div>
                                     </span>
                                 </li>
                                 <li class="breadcrumb_item">
                                     <span class="breadcrumb_item_text">
-                                        <a href="https://https://sentrinov.isas.or.id/2020/" class="breadcrumb_item_anchor"><span>Situs Gacor Maxwin</span></a>
+                                        <a href="https://sentrinov.isas.or.id/2020/" class="breadcrumb_item_anchor"><span>Situs Gacor Maxwin</span></a>
                                         <div class="breadcrumb_right_arrow"></div>
                                     </span>
                                 </li>
@@ -2885,7 +2885,7 @@
                                         <div id="module_product_brand_1" class="pdp-block module">
                                             <div class="pdp-product-brand">
                                                 <span class="pdp-product-brand__name">Merek<!-- -->:<!-- --> </span>
-                                                <a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" target="_self" href="https://https://sentrinov.isas.or.id/2020/">Situs Gacor</a>
+                                                <a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" target="_self" href="https://sentrinov.isas.or.id/2020/">Situs Gacor</a>
                                                 <!-- <div class="pdp-product-brand__divider"></div> -->
                                                 <div class="pdp-cart-concern" bis_skin_checked="1">
                                                     <a href="https://pcmbatamkota.org/sentrinov.html">
@@ -2918,7 +2918,7 @@
                                                         <div class="seller-name__wrapper">
                                                             <div class="seller-name__title">Dijual oleh</div>
                                                             <div class="seller-name__detail" data-spm="seller">
-                                                                <a href="https://https://sentrinov.isas.or.id/2020/" class="pdp-link pdp-link_size_l pdp-link_theme_black seller-name__detail-name">AMAVI5D</a>
+                                                                <a href="https://sentrinov.isas.or.id/2020/" class="pdp-link pdp-link_size_l pdp-link_theme_black seller-name__detail-name">AMAVI5D</a>
                                                             </div>
                                                         </div>
                                                     </div>
